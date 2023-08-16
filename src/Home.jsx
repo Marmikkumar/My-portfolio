@@ -8,7 +8,7 @@ export default function Home() {
       <Navbar />
       <div className="home">
         <div className="head-content">
-          <h1>I'm a Full Stack Web Devloper</h1>
+          <h1>I'm a MERN Stack Web Devloper</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio enim
             consequatur officia natus numquam reiciendis necessitatibus non
