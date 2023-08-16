@@ -6,14 +6,14 @@ export default function Footer() {
     <div className="footer">
       <div className="footer-box">
         <a
-          href="github.com/Marmikkumar"
+          href="https://github.com/Marmikkumar"
           target="_blank"
           className="footer-link"
         >
           <i className="fa-brands fa-github footer-link"></i>
         </a>
         <a
-          href="www.linkedin.com/in/marmik-kumar-055137238/"
+          href="https://linkedin.com/in/marmik-kumar-055137238/"
           target="_blank"
           className="footer-link"
         >
