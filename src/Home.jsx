@@ -18,7 +18,7 @@ export default function Home() {
         </div>
         <div className="fig">
           <img
-            src="https://scontent.fpat1-2.fna.fbcdn.net/v/t39.30808-6/295062744_748933913013473_3326987055742169383_n.jpg?stp=dst-jpg_p206x206&_nc_cat=108&cb=99be929b-59f725be&ccb=1-7&_nc_sid=947906&_nc_ohc=cuHD8rx4FHQAX9Ul1p8&_nc_ht=scontent.fpat1-2.fna&oh=00_AfCfEc2hWsnfyC7mRJNf0AXGWL-7OlsPk8qyd_zgt1ugZA&oe=64DDB5D3"
+            src="https://scontent.fpat3-2.fna.fbcdn.net/v/t39.30808-6/295062744_748933913013473_3326987055742169383_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=w_17tLcD08IAX9ne27o&_nc_ht=scontent.fpat3-2.fna&oh=00_AfCVni5OAoPIKu2zL7Yk1PIUXZ56rRgcz5tqJnZ_NfwfeQ&oe=64E1AA53"
             alt="photo"
           ></img>
         </div>
