@@ -1,11 +1,13 @@
 import React from "react";
 import Navbar from "./Navbar";
+import Footer from "./Footer";
 import "./styles.css";
 
 export default function Home() {
   return (
     <>
       <Navbar />
+      <Footer />
       <div className="home">
         <div className="head-content">
           <h1>I'm a Full Stack Web Devloper</h1>
