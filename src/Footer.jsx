@@ -20,13 +20,17 @@ export default function Footer() {
           <i className="fa-brands fa-linkedin footer-link"></i>
         </a>
         <a
-          href="https://mail.google.com/mail/u/0/popout?ver=1g3ytthb29lwb#cmid%253D1"
+          href="mailto: marmik.kumar.ece23@heritageit.edu.in"
           target="_blank"
           className="footer-link"
         >
           <i className="fa-solid fa-envelope footer-link"></i>
         </a>
-        <a href="" target="_blank" className="footer-link">
+        <a
+          href="https://1drv.ms/b/s!Ahr0SUxhkSMeg8Zjsx09NplR_2fwtw?e=B7wlvG"
+          download="Marmik_resume.pdf"
+          className="footer-link"
+        >
           <i className="fa-solid fa-file footer-link"></i>
         </a>
       </div>
