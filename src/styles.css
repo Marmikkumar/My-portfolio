@@ -8,6 +8,27 @@ body {
   overflow-x: hidden;
 }
 
+.footer {
+  position: fixed;
+  top: 50vh;
+  transform: translatey(-50%);
+  width: 5vh;
+  background-color: gray;
+}
+
+.footer-box {
+  display: flex;
+  flex-direction: column;
+  padding: 0.5vw;
+}
+
+.footer-link {
+  margin: 0.5vh 0vw;
+  font-size: 1.3rem;
+  color: white;
+  cursor: pointer;
+}
+
 /* -----------    Navbar    ---------- */
 
 .Nav {
