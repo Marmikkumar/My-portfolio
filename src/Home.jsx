@@ -12,10 +12,11 @@ export default function Home() {
         <div className="head-content">
           <h1>I'm a MERN Stack Web Devloper</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio enim
-            consequatur officia natus numquam reiciendis necessitatibus non
-            voluptatum quasi illo, consectetur consequuntur obcaecati iste?
-            Doloremque odit quibusdam ad excepturi porro.
+            <span>W</span>elcome to my portfolio! I'm excited to share my
+            journey and experiences with the MERN stack in the world of web
+            development. The MERN stack, comprising MongoDB, Express.js, React,
+            and Node.js, has been my playground for creating dynamic,
+            interactive, and full-stack web applications.
           </p>
         </div>
         <div className="fig">
