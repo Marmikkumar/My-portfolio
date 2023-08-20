@@ -8,6 +8,10 @@ body {
   overflow-x: hidden;
 }
 
+span{
+  font-size:2.5rem;
+}
+
 /* -----------    Navbar    ---------- */
 
 .Nav {
