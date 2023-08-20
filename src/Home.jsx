@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
-import myimage from "./myimage.png;
+import myimage from "./myimage.png";
 import "./styles.css";
 
 export default function Home() {
