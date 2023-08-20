@@ -9,43 +9,43 @@ export default function About() {
       </div>
       <div className="about-content">
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit iusto,
-          natus veniam quibusdam saepe consequatur necessitatibus alias. Maiores
-          eaque praesentium reprehenderit sequi, cumque sit excepturi. Ab at
-          ipsam officiis iure unde sunt maiores ea cumque? Itaque deleniti sed
-          facilis numquam blanditiis et, qui suscipit culpa laborum debitis modi
-          similique totam nostrum ipsa voluptates? Eaque ex velit nulla quae
-          cupiditate, saepe, autem sit sed quaerat a fuga labore aut fugit totam
-          sint dignissimos. Ducimus debitis cupiditate magni nisi, rerum
-          laudantium explicabo non placeat mollitia minima ipsa sunt ipsum
-          magnam? Incidunt assumenda pariatur autem numquam facilis magni
-          possimus corporis veniam dolorem quos ratione sequi ad, repudiandae
-          quibusdam! Eum magni, recusandae assumenda porro nulla culpa ut
-          voluptates odit cupiditate pariatur. Pariatur dolorum ex soluta
-          necessitatibus sed consequatur. Doloribus eaque pariatur blanditiis
-          voluptatum facilis, quo maiores eveniet similique vero, aut ipsum
-          reiciendis laboriosam beatae. Reiciendis, vel commodi similique
-          laudantium illum cumque et neque quae!
+          <span>I</span>'m a passionate and dedicated MERN stack web developer
+          with a fresh perspective and a knack for crafting digital experiences.
+          My journey began with coding, my preferred language was C++. I have
+          good knowledge of programming after that I move to frontend and
+          started HTML, CSS, and JavaScript, which I've honed into a solid
+          foundation for building sleek and responsive user interfaces.
         </p>
-        <br />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores sint
-          voluptate consequatur ex provident libero cupiditate animi rerum,
-          velit labore ut tempore modi laborum laudantium sed dolore iste dicta
-          minus suscipit cumque tempora! Fuga corrupti ducimus esse natus dicta
-          repudiandae dignissimos sit exercitationem laboriosam quam
-          perspiciatis cum commodi iure, ea aliquam possimus laborum provident
-          cupiditate sapiente incidunt. Vero velit reiciendis eius esse ducimus
-          numquam est iusto quia nam cupiditate aspernatur dolorum, quae
-          accusamus veniam adipisci enim exercitationem corporis? Corporis
-          praesentium reprehenderit doloribus cumque hic minima delectus, nulla
-          itaque possimus cum, aperiam deserunt dolorum officiis quidem nobis
-          sequi fugiat totam. Incidunt dolore temporibus ipsam, qui molestias
-          nemo suscipit facilis at hic quis autem corrupti nisi expedita nam
-          soluta aliquam! Adipisci suscipit cumque tempore dolorum explicabo
-          necessitatibus at labore quibusdam obcaecati, temporibus architecto
-          placeat itaque impedit distinctio ut! Ducimus cum libero consequatur
-          esse. Temporibus ipsum incidunt sed quam corrupti, autem sequi non.
+          Driven by an insatiable curiosity, I eagerly embraced React to elevate
+          my projects to the next level. Through this library, I've learned to
+          create dynamic and interactive web applications that leave a lasting
+          impression on users. Whether it's transforming design concepts into
+          pixel-perfect layouts or optimizing performance for seamless
+          navigation, I'm committed to delivering exceptional results.
+        </p>
+        <p>
+          After doing some projects and having pretty much knowledge of
+          frontend. I started studying the backend with an introduction, from
+          which I knows the importance of the backend. I started to learn Nodejs
+          Express which help to develop the connection of the frontend with the
+          backend. To complete the backend I have to know the API, Mongodb I
+          read that. My next target is to combine frontend with backend with
+          some projects and try to apply my backend knowledge in term of
+          projects.
+        </p>
+        <p>
+          I believe that effective communication is the cornerstone of
+          successful collaborations. I'm excited to work with cross-functional
+          teams, utilizing my technical skills and innovative mindset to
+          contribute to projects that push boundaries and bring visions to life.
+          As I continue to learn and evolve, I'm dedicated to staying at the
+          forefront of frontend development trends and methodologies.
+        </p>
+        <p>
+          Thank you for visiting my portfolio and joining me on this journey of
+          growth and creativity. Let's connect and create something remarkable
+          together.
         </p>
       </div>
     </div>
