@@ -19,7 +19,7 @@ export default function Portfolio() {
           <div className="portfolio-content">
             <div className="des">
               <a
-                href="https://deluxe-faloodeh-de5dbf.netlify.app/"
+                href="mjxgyg.csb.app/"
                 target="_blank"
               >
                 Demo
