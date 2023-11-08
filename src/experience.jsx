@@ -3,7 +3,7 @@ import "./styles.css";
 export default function Experience() {
   return (
     <div className="experience-heading" id="Experience">
-      <h2>Experience</h2>
+      <h2>Skills</h2>
       <p>These are the technology I've worked with :-</p>
 
       <ul className="experience-content">
