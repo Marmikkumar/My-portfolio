@@ -1,4 +1,3 @@
-import react from "react";
 import "./styles.css";
 
 export default function Experience() {
@@ -7,28 +6,18 @@ export default function Experience() {
       <h2>Experience</h2>
       <p>These are the technology I've worked with :-</p>
 
-      <div className="experience-content">
-        <div className="exp-box box-1">
-          <p>HTML</p>
-          <i class="fa-brands fa-html5"></i>
-        </div>
-        <div className="exp-box box-2">
-          <p>CSS</p>
-          <i class="fa-brands fa-css3-alt"></i>
-        </div>
-        <div className="exp-box box-3">
-          <p>Javascript</p>
-          <i class="fa-brands fa-js"></i>
-        </div>
-        <div className="exp-box box-4">
-          <p>React</p>
-          <i class="fa-brands fa-react"></i>
-        </div>
-        <div className="exp-box box-5">
-          <p>Nodejs</p>
-          <i class="fa-brands fa-node"></i>
-        </div>
-      </div>
+      <ul className="experience-content">
+
+        <li>HTML , CSS</li>
+        <li>Javascript</li>
+        <li>React</li>
+        <li>Nodejs, Express</li>
+        <li>RestApi</li>
+        <li>Problem Solving Skills (DSA)</li>
+        <li>Sql</li>
+        <li>GitHub</li>
+        <li>Cpp , Oops</li>
+      </ul>
     </div>
   );
 }
