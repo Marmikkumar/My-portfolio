@@ -54,7 +54,7 @@ export default function Navbar() {
               duration={1500}
               to="Experience"
             >
-              Experience
+              Skills
             </Link>
           </li>
 
