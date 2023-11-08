@@ -3,7 +3,7 @@ import list from "./list.png.png";
 import colorgenerator from "./colorgenerator.png";
 import constructor from "./constructor.png";
 import travel from "./travel.png";
-import Netlify from "./Netlify.png";
+// import Netlify from "./Netlify.png";
 import "./styles.css";
 
 export default function Portfolio() {
