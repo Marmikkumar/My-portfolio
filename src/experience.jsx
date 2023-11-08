@@ -14,7 +14,7 @@ export default function Experience() {
         <li>Nodejs, Express</li>
         <li>RestApi</li>
         <li>Problem Solving Skills (DSA)</li>
-        <li>Sql</li>
+        <li>Sql , MongoDB </li>
         <li>GitHub</li>
         <li>Cpp , Oops</li>
       </ul>
