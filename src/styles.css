@@ -109,77 +109,12 @@ span{
 
 .experience-content {
   margin: 5vh 2vw;
-  display: flex;
   flex-wrap: wrap;
 }
 
-.exp-box {
-  height: 30vh;
-  width: 25vw;
-  margin: 2vw;
-  border-top: none;
-}
-
-.exp-box p {
-  text-align: center;
-  font-size: 1.4rem;
-}
-
-.exp-box i {
-  display: flex;
-  justify-content: center;
-  font-size: 15vh;
-}
-
-.exp-box i:hover {
-  font-size: 18vh;
-  transition: ease-out;
-}
-
-.exp-box p:hover {
-  font-size: 1.6rem;
-}
-
-.box-1,
-box-1 i {
-  border: 1px solid red;
-  box-shadow: 0px 10px 8px red;
-  color: red;
-}
-
-.box-2,
-box-2 i {
-  border: 1px solid blue;
-  box-shadow: 0px 10px 8px blue;
-  color: blue;
-}
-
-.box-3,
-box-3 i {
-  border: 1px solid yellow;
-  box-shadow: 0px 10px 8px yellow;
-  color: yellow;
-}
-
-.box-4,
-box-4 i {
-  border: 1px solid rgb(6, 181, 240);
-  box-shadow: 0px 10px 8px rgb(6, 181, 240);
-  color: rgb(6, 181, 240);
-}
-
-.box-5,
-box-5 i {
-  border: 1px solid green;
-  box-shadow: 0px 10px 8px green;
-  color: green;
-}
-
-.box-1,
-box-1 i {
-  border: 1px solid red;
-  box-shadow: 0px 10px 8px red;
-  color: red;
+.experience-content li{
+  margin-top: 0.8rem;
+  font-size: 1.1rem;
 }
 
 /* -------------- portfolio  ------------------- */
