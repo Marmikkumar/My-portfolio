@@ -2,6 +2,7 @@ import React from "react";
 import list from "./list.png.png";
 import colorgenerator from "./colorgenerator.png";
 import constructor from "./constructor.png";
+import Netlify from "./Netlify.png;
 import travel from "./travel.png";
 import "./styles.css";
 
