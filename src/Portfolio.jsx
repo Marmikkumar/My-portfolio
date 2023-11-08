@@ -2,8 +2,8 @@ import React from "react";
 import list from "./list.png.png";
 import colorgenerator from "./colorgenerator.png";
 import constructor from "./constructor.png";
-import Netlify from "./Netlify.png";
 import travel from "./travel.png";
+import Netlify from "./Netlify.png";
 import "./styles.css";
 
 export default function Portfolio() {
@@ -20,7 +20,7 @@ export default function Portfolio() {
           <div className="portfolio-content">
             <div className="des">
               <a
-                href="https://effervescent-manatee-b7b82e.netlify.app/"
+                href="https://deluxe-faloodeh-de5dbf.netlify.app/"
                 target="_blank"
               >
                 Demo
@@ -60,7 +60,7 @@ export default function Portfolio() {
             </div>
           </div>
         </div>
-        
+
         <div className="project">
           <img src={list} alt="" />
           <div className="portfolio-content">
